@@ -114,7 +114,7 @@ def fert_recommend():
     P = int(request.form['phosphorous'])
     K = int(request.form['pottasium'])
 
-    df = pd.read_csv('C:/Users/SAMMY/Documents/PROJECT-PHASE-5/Data/fertilizer.csv')
+    df = pd.read_csv('app\data\fertilizer.csv')
 
     nr = df[df['Crop'] == crop_name]['N'].iloc[0]
     pr = df[df['Crop'] == crop_name]['P'].iloc[0]
