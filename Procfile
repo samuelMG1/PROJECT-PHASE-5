@@ -1,1 +1,1 @@
-web: gunicorn crop_app:app
+web: gunicorn app:app --log-level debug
