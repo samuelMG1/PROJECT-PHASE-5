@@ -3,7 +3,7 @@ from markupsafe import Markup
 import numpy as np
 import pandas as pd
 import requests
-import config
+import app.config as config
 import torch
 import io
 from utils.fertilizer import fertilizer_dic
