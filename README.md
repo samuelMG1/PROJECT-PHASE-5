@@ -58,6 +58,7 @@ Note that, for now it only supports following crops
 - Squash
 - Raspberry
 </details>
+
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
 - Clone the complete project with `git clone https://github.com/samuelMG1/PROJECT-PHASE-5.git 
