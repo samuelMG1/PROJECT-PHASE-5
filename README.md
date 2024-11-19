@@ -9,7 +9,7 @@ A simple ML and DL based website which recommends the best crop to grow, fertili
   agriculture for their livelihood. Many new technologies, such as Machine 
   Learning and Deep Learning, are being implemented into agriculture so that 
   it is easier for farmers to grow and maximize their yield.
-
+  
 * In this project, we present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively.
 
   * In the crop recommendation application, the user can provide the soil data 
@@ -23,7 +23,6 @@ A simple ML and DL based website which recommends the best crop to grow, fertili
 
   * For the last application, that is the plant disease prediction 
     application,still in development.
-
  ## Among the challenges farmers face include:
 
 1. Crop Selection Uncertainty: Farmers may not know which crops are best suited for their soil and climate conditions, leading to poor yields and economic loss.
@@ -38,16 +37,12 @@ The primary goal of this project is to develop an intelligent crop and fertilize
 ## How to use 💻
 - Crop Recommendation system ==> enter the corresponding nutrient values of your soil, state and city. Note that, the N-P-K (Nitrogen-Phosphorous-Pottasium) values to be entered should be the ratio between them.
 Note: When you enter the city name, make sure to enter mostly common city names. Remote cities/towns may not be available in the [Weather API](https://openweathermap.org/) from where humidity, temperature data is fetched.
-
 - Fertilizer suggestion system ==> Enter the nutrient contents of your soil and the crop you want to grow. The algorithm will tell which nutrient the soil has excess of or lacks. Accordingly, it will give suggestions for buying fertilizers.
-
 - Disease Detection System ==> Upload/capture an image of leaf of your plant. The algorithm will tell the crop type and whether it is diseased or healthy. If it is diseased, it will tell you the cause of the disease and suggest you how to prevent/cure the disease accordingly.
 Note that, for now it only supports following crops
-
 <details>
   <summary>Supported crops
 </summary>
-
 - Apple
 - Blueberry
 - Cherry
@@ -67,7 +62,7 @@ Note that, for now it only supports following crops
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
 - Clone the complete project with `git clone https://github.com/samuelMG1/PROJECT-PHASE-5.git 
-
+  
 ## Solutions
 The solutions the recommendation sytem will provide include:
 
