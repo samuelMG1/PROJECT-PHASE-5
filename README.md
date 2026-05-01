@@ -81,7 +81,7 @@ recommendations, not just nutrient labels
 ---
 
 ### 3. Plant Disease Detection (CNN)
-Classifies leaf images to identify disease and recommend treatment.
+Classifies leaf images to identify disease and recommend treatment.which we are in development 
 
 **Model:** VGG16 fine-tuned on PlantVillage dataset
 **Classes:** 14 crops · 38 disease/healthy categories
