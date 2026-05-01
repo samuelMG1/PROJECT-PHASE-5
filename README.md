@@ -167,17 +167,8 @@ meets agricultural development in Africa:
   monitoring pipelines
 
 ---
-
-## Lead Engineer
-
-**Samuel Gathogo** — Data Scientist & ML Engineer
-
-Designed and built the full system: data pipelines, ML model
+Designed and built of the full system: data pipelines, ML model
 training, CNN architecture, Flask deployment, and API integration.
-
-- GitHub: [samuelMG1](https://github.com/samuelMG1)
-- LinkedIn: [linkedin.com/in/samuel-gathogo](https://linkedin.com/in/samuel-gathogo)
-- Location: Nairobi, Kenya# Wakulima FarmTech Intelligence
 
 > An end-to-end ML/DL platform delivering precision agriculture
 > intelligence to smallholder farmers across Africa — covering
